@@ -55,6 +55,7 @@ body{
 
 
 .search-box{
+    border: 1px solid black;
     margin-right: 75px;
     margin-top: 10px;
     margin-bottom: 20px;
